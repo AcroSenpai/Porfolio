@@ -1,0 +1,35 @@
+body {
+    margin: 0px;
+}
+
+#header {
+    width: 100%;
+    display: flex;
+    background-color: #98c1d9;
+    flex-wrap: wrap;
+}
+
+#header_primera_fila {
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+}
+
+#header_segunda_fila {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+#Logo {
+    width: 25%;
+    flex-wrap: wrap;
+}
+
+#Componentes_header {
+    width: 75%;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
